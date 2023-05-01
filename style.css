@@ -1,0 +1,197 @@
+    *{
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;
+        position: relative;
+    }
+    #img-1{  
+       
+    height: 90px;
+    }
+    nav{
+        display: flex;
+        justify-content: space-between;
+        
+    }
+    
+    
+    .main-container{
+    background-color: yellow;
+    height:100vh;
+    }
+    .li{
+        display: flex;
+        justify-content: left;
+        list-style: none;
+        margin: 10px;
+    }
+    li{
+        border-radius: 9px;
+        padding: 9px;
+        border: 5px solid black;
+        margin: 7px;
+
+    }
+    #para{
+    position: absolute;
+    top: 280px;
+    left: 120px;
+    font-size: 70px;
+    width: 544px;
+    }
+    .pht{
+        position: absolute;
+        top: 200px;
+        right:47px;
+        height: 530px;
+    }
+    #btn1{
+        position: absolute;
+        top:500px;
+        left: 120px;
+    font-size: 40px;
+    font-weight: bold;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    }
+    .page2{
+        height: 100vh;
+
+        
+    }
+    #page2-img{
+        position: absolute;
+        height: 331px;
+        border-radius: 500px;
+        left: 120px;
+        top: 193px;
+    }
+    .yo{
+        position: absolute;
+        right: 100px;
+        top: 200px;
+    }
+
+    #h1{
+        
+    
+        font-size: 60px;
+        width: 600px;
+    }
+    #p1{
+        
+        width: 600px;
+        font-size: 30px;
+    }
+    .page3{
+        height: 100vh;
+    
+        
+    }
+    #page3-img{
+        position: absolute;
+        height: 331px;
+        border-radius: 500px;
+        right: 120px;
+        top: 193px;
+    }
+    .yo2{
+        height: 100vh;
+        position: absolute;
+        left: 80px;
+        top: 100px;
+    }
+
+    #h1_1{
+        font-size: 60px;
+        width: 600px;
+    }
+    #p1_1{
+        width: 600px;
+        font-size: 30px;
+    }
+    span{
+        background-color: pink;
+        font-size: 30px;
+        font-weight: bold;
+    }
+    .btn2{
+        margin-top: 30px;
+    font-size: 30px;
+    background-color: black;
+    color: white;
+    border-radius: 23px;
+
+    }
+    .btn2:hover{
+        background-color: white;
+        color: black;
+    }
+    .page4{
+        height: 100vh;
+        background-color: grey;
+    }
+   
+    .con{
+        display: flex;
+        justify-content:space-evenly;
+        height: 100vh;
+       
+      
+    }
+    .subcon{
+        height: 70%;
+margin: 20px;
+border: 4px solid black;
+background-color:honeydew;
+    }
+    #donut{
+        
+        height: 300px;
+    }
+    
+    #donut_para{
+        width: 300px;
+    }
+    
+    table, th, td {
+        border: 1px solid black;
+        border-collapse: collapse;
+      }
+      th, td {
+        padding-top: 10px;
+        padding-bottom: 20px;
+        padding-left: 30px;
+        padding-right: 40px;
+      }
+     .sanu{
+        display: flex;
+       justify-content: space-around;
+
+     }
+     #footer{
+        background-color: hsla(0, 0%, 97%, 0.938);
+        height:50%;
+     }
+     .image{
+        display: flex;
+        justify-content: space-evenly;
+     }
+     #footer2{
+        height: 100px;
+        background-color: black;
+        display: flex;
+        justify-content: space-between;
+     }
+     .social:hover{
+        height: 90px;
+        
+     }
+     .social{
+        height: 60px;
+        margin: 14px;
+     }
+     #foot3{
+        text-align: center;
+     }
